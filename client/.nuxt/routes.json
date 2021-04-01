@@ -1,0 +1,62 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "E:\\\\Materials\\\\MEVN\\\\Arafni\\\\client\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "E:\\\\Materials\\\\MEVN\\\\Arafni\\\\client\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "E:\\\\Materials\\\\MEVN\\\\Arafni\\\\client\\\\pages\\\\profile\\\\index.vue",
+    "chunkName": "pages/profile/index"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "E:\\\\Materials\\\\MEVN\\\\Arafni\\\\client\\\\pages\\\\register.vue",
+    "chunkName": "pages/register"
+  },
+  {
+    "name": "setting",
+    "path": "/setting",
+    "component": "E:\\\\Materials\\\\MEVN\\\\Arafni\\\\client\\\\pages\\\\setting.vue",
+    "chunkName": "pages/setting"
+  },
+  {
+    "name": "blog-add",
+    "path": "/blog/add",
+    "component": "E:\\\\Materials\\\\MEVN\\\\Arafni\\\\client\\\\pages\\\\blog\\\\add.vue",
+    "chunkName": "pages/blog/add"
+  },
+  {
+    "name": "blog-id",
+    "path": "/blog/:id",
+    "component": "E:\\\\Materials\\\\MEVN\\\\Arafni\\\\client\\\\pages\\\\blog\\\\_id.vue",
+    "chunkName": "pages/blog/_id"
+  },
+  {
+    "name": "edit-profile-id",
+    "path": "/edit-profile/:id?",
+    "component": "E:\\\\Materials\\\\MEVN\\\\Arafni\\\\client\\\\pages\\\\edit-profile\\\\_id.vue",
+    "chunkName": "pages/edit-profile/_id"
+  },
+  {
+    "name": "profile-id",
+    "path": "/profile/:id",
+    "component": "E:\\\\Materials\\\\MEVN\\\\Arafni\\\\client\\\\pages\\\\profile\\\\_id.vue",
+    "chunkName": "pages/profile/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\Materials\\\\MEVN\\\\Arafni\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

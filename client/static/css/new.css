@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Berkshire+Swash&display=swap');
+
+.fixedNav{
+  position: fixed;
+  width: 100%;
+  height: 60px;
+  background: white;
+  z-index: 10;
+}
+section{
+  margin-top: 100px;
+}
+
+.topbar .logo .brandName{
+  font-family: 'Bebas Neue', cursive;
+  text-decoration: none;
+  font-size: 30px;
+  margin: 10px;
+}
+aside{
+  z-index: -1;
+}
+
+aside .widget .naves li a{
+  color: #545454;
+}
+aside .widget .naves li a:hover{
+  text-decoration: none;
+}
+
+.main .blog{
+  padding: 10px 5px;
+}
